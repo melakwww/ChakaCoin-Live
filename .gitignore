@@ -1,0 +1,8 @@
+# Ignore the environment folder
+venv/
+# Ignore the secret Firebase key (DANGER: DO NOT REMOVE THIS LINE)
+dj-chaka-website-firebase-adminsdk-*.json
+# Ignore local database files
+chain_5001.json
+# Ignore python cache files
+__pycache__/
